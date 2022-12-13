@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2_2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/0_0.unity
+    guid: e1fb041ccdf2005439a5e2eaaf969268
+  - enabled: 1
+    path: Assets/Scenes/0_1.unity
+    guid: 0fcd683a8508b944f9d91c12fbbd4faf
+  - enabled: 1
+    path: Assets/Scenes/0_2.unity
+    guid: 2c4f6f88c50479b4b9a8bb18b5b16765
+  - enabled: 1
+    path: Assets/Scenes/0_3.unity
+    guid: ebbd5856502d8ca4f8fe8c13fa01461f
+  - enabled: 1
+    path: Assets/Scenes/0_4.unity
+    guid: 84ed844b26fc52a44b681f4b09a8e2d4
+  - enabled: 1
+    path: Assets/Scenes/1_0.unity
+    guid: 7863e49e3d4bc2e4b85a5d79e8fc3261
+  - enabled: 1
+    path: Assets/Scenes/1_1.unity
+    guid: 9db0c15eca831dc4aaf9877f8bef27d5
+  - enabled: 1
+    path: Assets/Scenes/1_2.unity
+    guid: 582ced6eb24ec644fa1fa524c338b768
+  - enabled: 1
+    path: Assets/Scenes/1_3.unity
+    guid: 6c026c69313c0374099aabaa6496fc3b
+  - enabled: 1
+    path: Assets/Scenes/1_4.unity
+    guid: d51b4e15992b9cc49b3f89a330c8a1cf
+  - enabled: 1
+    path: Assets/Scenes/2_0.unity
+    guid: 99ec1a2cceef5464580e4c0fad0477b6
+  - enabled: 1
+    path: Assets/Scenes/2_1.unity
+    guid: 8aaf37a4d4aaeb24aaa8ec49f093d190
+  - enabled: 1
+    path: Assets/Scenes/2_3.unity
+    guid: dacc9b18b404c574c9b0f4d6b728dd3a
+  - enabled: 1
+    path: Assets/Scenes/2_4.unity
+    guid: 20cc15858aa64534097c82acfd9131f1
+  - enabled: 1
+    path: Assets/Scenes/3_0.unity
+    guid: ef0be206d13aba041a82d8cb75cdbed1
+  - enabled: 1
+    path: Assets/Scenes/3_1.unity
+    guid: f138efd510d945340bb39188ef711a50
+  - enabled: 1
+    path: Assets/Scenes/3_2.unity
+    guid: 38e1248c213a46c45a0184b25705541b
+  - enabled: 1
+    path: Assets/Scenes/3_3.unity
+    guid: 8f9ba53980baef34aa6e4a202eea19c2
+  - enabled: 1
+    path: Assets/Scenes/3_4.unity
+    guid: 37b7f5976ad1753408c451ded4622781
+  - enabled: 1
+    path: Assets/Scenes/4_0.unity
+    guid: 1126e15b6de45074ab0fd2c4d85c55ca
+  - enabled: 1
+    path: Assets/Scenes/4_1.unity
+    guid: 0d651bb0bb1d45247a2df2220f54863d
+  - enabled: 1
+    path: Assets/Scenes/4_2.unity
+    guid: b728a05d1f8071149bdb00c730ca4b4f
+  - enabled: 1
+    path: Assets/Scenes/4_3.unity
+    guid: 3f61e714de47ea0449bc0af63ae5e492
+  - enabled: 1
+    path: Assets/Scenes/4_4.unity
+    guid: c9160a0f3cc68bd45b16fd7b215340f3
+  m_configObjects: {}
